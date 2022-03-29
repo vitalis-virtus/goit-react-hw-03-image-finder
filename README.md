@@ -1,1 +1,1 @@
-GOIT-REACT-HW3-IMAGE-FINDER
+Simple REACT application that helps you to find image by your request
